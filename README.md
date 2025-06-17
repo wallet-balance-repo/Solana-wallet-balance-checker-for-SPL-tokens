@@ -133,4 +133,6 @@ The following command-line arguments can be used with the program:
 
 This project is distributed under the [MIT License](/LICENSE). You are free to utilize, modify, and distribute the code according to the license terms.
 
-Update:  16.06.2025 Social links
+
+
+Update:  06/17/2025
